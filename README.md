@@ -8,6 +8,3 @@ This repository contains code for classifying film reviews into positive and neg
 2. `notebooks/`: This directory contains the Google Colab notebook used for training the classification model.
 3. `src/`: This directory contains the source code for the classification model.
 4. `requirements.txt`: This file lists all the dependencies required to run the code.
-
-## Usage
-1. Clone the repository:
